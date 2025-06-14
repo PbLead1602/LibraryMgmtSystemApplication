@@ -1,3 +1,3 @@
 # LibraryMgmtSystemApplication
-this is my firest repository.
+this is my first repository.
 Author - Priya Bodade.
